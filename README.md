@@ -66,19 +66,6 @@ jupyter lab
 
 <hr>
 
-<!-- Future work (centered + bullet-like dots on the right) -->
-<div align="center">
-
-### 🚀 Future Work
-<p style="margin:6px 0;">.Extend dataset with post-2025 vulnerabilities for trend forecasting &nbsp;&nbsp; •</p>
-<p style="margin:6px 0;">.Use <strong>Deep Learning</strong> (e.g., BERT / LSTM) for text-based CWE description modeling &nbsp;&nbsp; •</p>
-<p style="margin:6px 0;">.Build an <strong>interactive dashboard</strong> (Streamlit / Dash) for real-time visualization &nbsp;&nbsp; •</p>
-<p style="margin:6px 0;">.Experiment with <strong>DBSCAN / Hierarchical Clustering</strong> for richer group separation &nbsp;&nbsp; •</p>
-<p style="margin:6px 0;">.Apply <strong>time-series forecasting</strong> (Prophet) to predict future attack waves &nbsp;&nbsp; •</p>
-
-</div>
-
-<hr>
 
 <!-- References (centered) -->
 <div align="center">
@@ -92,6 +79,7 @@ jupyter lab
 
 <hr>
 
-<p align="center">👩‍💻 <strong>Author:</strong> Raghad A. &nbsp;&nbsp; 🔒 Academic / Educational Use</p>
+<p align="center">👩‍💻 <strong>Author:</strong> Raghad A. &nbsp;&nbsp; 
+
 
 
