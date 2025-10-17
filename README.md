@@ -34,13 +34,20 @@ It applies **data mining techniques** including **Exploratory Data Analysis (EDA
 
 ---
 
-## 🧩 Visualizations
-- 📊 **Confusion Matrices:** `reports/supervised/rf_confusion.png`, `reports/supervised/svm_confusion.png`
-- 🧭 **Clustering Plot:** `reports/unsupervised/kmeans_svd2d.png`
-- 📅 **Trend Charts:** `reports/eda_visuals/vulns_by_year.png`
+## 🌿 Visualizations
 
-> To display inline visuals, you can uncomment this line:  
-> `![Random Forest Confusion](reports/supervised/rf_confusion.png)`
+Here are some sample visuals generated from the analysis:
+
+<p align="center">
+  <b>🧩 Confusion Matrix — Random Forest</b><br>
+  <img src="reports/supervised/rf_confusion.png" width="400" alt="Random Forest Confusion Matrix"><br><br>
+
+  <b>🌐 K-Means Clustering (2D Projection)</b><br>
+  <img src="reports/unsupervised/kmeans_svd2d.png" width="400" alt="K-Means Clusters"><br><br>
+
+  <b>📅 Vulnerabilities by Year</b><br>
+  <img src="reports/eda_visuals/vulns_by_year.png" width="400" alt="Vulnerabilities by Year">
+</p>
 
 ---
 
@@ -89,6 +96,7 @@ jupyter lab
 <hr>
 
 <p align="center">👩‍💻 <strong>Author:</strong> Raghad A. &nbsp;&nbsp; 
+
 
 
 
