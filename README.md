@@ -40,7 +40,6 @@ Here are some sample visuals generated from the analysis.
 
 <p align="center">
   <img src="reports/eda_visuals/top_vendors.png" alt="Top Vendors by Vulnerabilities" width="360"/>
-  <img src="reports/unsupervised/YOUR_FILENAME_HERE.png" alt="K-Means Clusters (2D)" width="400"/>
 
 </p>
 
@@ -100,6 +99,7 @@ jupyter lab
 <hr>
 
 <p align="center">👩‍💻 <strong>Author:</strong> Raghad A. &nbsp;&nbsp; 
+
 
 
 
