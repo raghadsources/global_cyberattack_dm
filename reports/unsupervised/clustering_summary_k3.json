@@ -1,0 +1,71 @@
+{
+  "best_k": 3,
+  "silhouette": 0.18324905186014268,
+  "summaries": {
+    "0": {
+      "count": 403,
+      "top_vendor": {
+        "Microsoft": 71,
+        "Ivanti": 21,
+        "Apple": 14,
+        "Google": 14,
+        "Cisco": 13
+      },
+      "top_cwe": {
+        "CWE-78": 31,
+        "CWE-502": 26,
+        "CWE-22": 23,
+        "CWE-416": 20,
+        "CWE-287": 16
+      },
+      "years": {
+        "2023": 14,
+        "2024": 186,
+        "2025": 203
+      }
+    },
+    "1": {
+      "count": 584,
+      "top_vendor": {
+        "Microsoft": 169,
+        "Adobe": 57,
+        "Cisco": 51,
+        "Apple": 32,
+        "Oracle": 23
+      },
+      "top_cwe": {
+        "CWE-119": 64,
+        "CWE-20": 58,
+        "CWE-78": 34,
+        "CWE-416": 33,
+        "CWE-94": 27
+      },
+      "years": {
+        "2022": 477,
+        "2023": 107
+      }
+    },
+    "2": {
+      "count": 440,
+      "top_vendor": {
+        "Microsoft": 98,
+        "Apple": 38,
+        "Google": 31,
+        "Cisco": 17,
+        "Apache": 16
+      },
+      "top_cwe": {
+        "CWE-20": 47,
+        "CWE-787": 42,
+        "CWE-416": 29,
+        "CWE-22": 28,
+        "CWE-78": 23
+      },
+      "years": {
+        "2021": 296,
+        "2022": 78,
+        "2023": 66
+      }
+    }
+  }
+}

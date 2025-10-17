@@ -1,0 +1,203 @@
+support,itemsets,length
+1.0,frozenset({'ransomware=False'}),1
+0.5963559915907498,frozenset({'year=<=2022'}),1
+0.5963559915907498,"frozenset({'ransomware=False', 'year=<=2022'})",2
+0.314646110721794,frozenset({'month=Q4'}),1
+0.314646110721794,"frozenset({'ransomware=False', 'month=Q4'})",2
+0.31394533987386125,frozenset({'month=Q1'}),1
+0.31394533987386125,"frozenset({'month=Q1', 'ransomware=False'})",2
+0.2725998598458304,"frozenset({'ransomware=False', 'year=2024-2025'})",2
+0.2725998598458304,frozenset({'year=2024-2025'}),1
+0.23686054660126138,frozenset({'vendor=Microsoft'}),1
+0.23686054660126138,"frozenset({'ransomware=False', 'vendor=Microsoft'})",2
+0.22985283812193413,frozenset({'month=Q2'}),1
+0.22985283812193413,"frozenset({'month=Q2', 'ransomware=False'})",2
+0.2291520672740014,"frozenset({'month=Q4', 'year=<=2022'})",2
+0.2291520672740014,"frozenset({'ransomware=False', 'month=Q4', 'year=<=2022'})",3
+0.20882971268395234,"frozenset({'month=Q1', 'ransomware=False', 'year=<=2022'})",3
+0.20882971268395234,"frozenset({'month=Q1', 'year=<=2022'})",2
+0.16818500350385424,"frozenset({'vendor=Microsoft', 'year=<=2022'})",2
+0.16818500350385424,"frozenset({'ransomware=False', 'vendor=Microsoft', 'year=<=2022'})",3
+0.14155571128241065,frozenset({'month=Q3'}),1
+0.14155571128241065,"frozenset({'ransomware=False', 'month=Q3'})",2
+0.13104414856341975,frozenset({'year=2023'}),1
+0.13104414856341975,"frozenset({'ransomware=False', 'year=2023'})",2
+0.12333566923615978,"frozenset({'month=Q2', 'year=<=2022'})",2
+0.12333566923615978,"frozenset({'month=Q2', 'ransomware=False', 'year=<=2022'})",3
+0.11142256482130343,"frozenset({'ransomware=False', 'cwe=Unknown'})",2
+0.11142256482130343,frozenset({'cwe=Unknown'}),1
+0.1079187105816398,"frozenset({'ransomware=False', 'vendor=Microsoft', 'product=Windows'})",3
+0.1079187105816398,"frozenset({'ransomware=False', 'product=Windows'})",2
+0.1079187105816398,"frozenset({'product=Windows', 'vendor=Microsoft'})",2
+0.1079187105816398,frozenset({'product=Windows'}),1
+0.0861948142957253,"frozenset({'month=Q1', 'vendor=Microsoft'})",2
+0.0861948142957253,"frozenset({'month=Q1', 'ransomware=False', 'vendor=Microsoft'})",3
+0.07918710581639804,"frozenset({'month=Q1', 'year=2024-2025'})",2
+0.07918710581639804,"frozenset({'month=Q1', 'ransomware=False', 'year=2024-2025'})",3
+0.07778556412053259,"frozenset({'ransomware=False', 'cwe=CWE-20'})",2
+0.07778556412053259,frozenset({'cwe=CWE-20'}),1
+0.07638402242466713,"frozenset({'cwe=Unknown', 'year=<=2022'})",2
+0.07638402242466713,"frozenset({'year=2024-2025', 'month=Q3'})",2
+0.07638402242466713,"frozenset({'ransomware=False', 'cwe=Unknown', 'year=<=2022'})",3
+0.07638402242466713,"frozenset({'ransomware=False', 'year=2024-2025', 'month=Q3'})",3
+0.07217939733707078,"frozenset({'vendor=Microsoft', 'month=Q4'})",2
+0.07217939733707078,"frozenset({'ransomware=False', 'vendor=Microsoft', 'month=Q4'})",3
+0.06587245970567625,"frozenset({'ransomware=False', 'cwe=CWE-20', 'year=<=2022'})",3
+0.06587245970567625,"frozenset({'cwe=CWE-20', 'year=<=2022'})",2
+0.0644709180098108,"frozenset({'month=Q2', 'ransomware=False', 'year=2024-2025'})",3
+0.0644709180098108,"frozenset({'month=Q1', 'vendor=Microsoft', 'year=<=2022'})",3
+0.0644709180098108,"frozenset({'month=Q2', 'year=2024-2025'})",2
+0.06377014716187807,"frozenset({'product=Windows', 'vendor=Microsoft', 'year=<=2022'})",3
+0.06377014716187807,"frozenset({'ransomware=False', 'year=<=2022', 'product=Windows'})",3
+0.06377014716187807,"frozenset({'product=Windows', 'year=<=2022'})",2
+0.06166783461807989,frozenset({'cwe=CWE-78'}),1
+0.06166783461807989,"frozenset({'cwe=CWE-78', 'ransomware=False'})",2
+0.05886475122634898,"frozenset({'ransomware=False', 'vendor=Apple'})",2
+0.05886475122634898,frozenset({'vendor=Apple'}),1
+0.05746320953048353,"frozenset({'vendor=Microsoft', 'month=Q4', 'year=<=2022'})",3
+0.05746320953048353,"frozenset({'ransomware=False', 'cwe=CWE-416'})",2
+0.05746320953048353,frozenset({'cwe=CWE-416'}),1
+0.056762438682550806,frozenset({'vendor=Cisco'}),1
+0.056762438682550806,"frozenset({'ransomware=False', 'cwe=CWE-787'})",2
+0.056762438682550806,frozenset({'cwe=CWE-787'}),1
+0.056762438682550806,"frozenset({'ransomware=False', 'vendor=Cisco'})",2
+0.05606166783461808,frozenset({'cwe=CWE-119'}),1
+0.05606166783461808,"frozenset({'ransomware=False', 'cwe=CWE-119'})",2
+0.05255781359495445,"frozenset({'ransomware=False', 'month=Q4', 'year=2024-2025'})",3
+0.05255781359495445,frozenset({'vendor=Adobe'}),1
+0.05255781359495445,"frozenset({'month=Q4', 'year=2024-2025'})",2
+0.05255781359495445,"frozenset({'ransomware=False', 'vendor=Adobe'})",2
+0.05185704274702172,"frozenset({'month=Q2', 'ransomware=False', 'vendor=Microsoft'})",3
+0.05185704274702172,"frozenset({'month=Q2', 'vendor=Microsoft'})",2
+0.050455501051156273,"frozenset({'cwe=CWE-119', 'year=<=2022'})",2
+0.050455501051156273,"frozenset({'ransomware=False', 'cwe=CWE-119', 'year=<=2022'})",3
+0.049754730203223546,"frozenset({'vendor=Microsoft', 'year=2024-2025'})",2
+0.049754730203223546,"frozenset({'ransomware=False', 'vendor=Microsoft', 'year=2024-2025'})",3
+0.046250875963559916,frozenset({'cwe=CWE-22'}),1
+0.046250875963559916,"frozenset({'ransomware=False', 'product=Multiple Products'})",2
+0.046250875963559916,frozenset({'product=Multiple Products'}),1
+0.046250875963559916,"frozenset({'ransomware=False', 'cwe=CWE-22'})",2
+0.04555010511562719,"frozenset({'ransomware=False', 'vendor=Google'})",2
+0.04555010511562719,frozenset({'vendor=Google'}),1
+0.042747021723896286,"frozenset({'month=Q4', 'cwe=Unknown'})",2
+0.042747021723896286,"frozenset({'year=<=2022', 'vendor=Cisco'})",2
+0.042747021723896286,"frozenset({'ransomware=False', 'year=<=2022', 'vendor=Cisco'})",3
+0.042747021723896286,"frozenset({'ransomware=False', 'month=Q4', 'cwe=Unknown'})",3
+0.04204625087596356,"frozenset({'month=Q2', 'ransomware=False', 'year=2023'})",3
+0.04204625087596356,"frozenset({'vendor=Microsoft', 'cwe=Unknown'})",2
+0.04204625087596356,"frozenset({'month=Q2', 'year=2023'})",2
+0.04204625087596356,"frozenset({'ransomware=False', 'vendor=Microsoft', 'cwe=Unknown'})",3
+0.04134548002803083,"frozenset({'year=<=2022', 'cwe=CWE-787'})",2
+0.04134548002803083,"frozenset({'ransomware=False', 'vendor=Adobe', 'year=<=2022'})",3
+0.04134548002803083,"frozenset({'ransomware=False', 'year=<=2022', 'cwe=CWE-787'})",3
+0.04134548002803083,"frozenset({'vendor=Adobe', 'year=<=2022'})",2
+0.039943938332165384,"frozenset({'month=Q2', 'vendor=Microsoft', 'year=<=2022'})",3
+0.03714085494043448,"frozenset({'month=Q1', 'product=Windows'})",2
+0.03714085494043448,"frozenset({'month=Q1', 'product=Windows', 'vendor=Microsoft'})",3
+0.03714085494043448,"frozenset({'month=Q1', 'ransomware=False', 'product=Windows'})",3
+0.035739313244569026,frozenset({'cwe=CWE-502'}),1
+0.035739313244569026,"frozenset({'cwe=CWE-502', 'ransomware=False'})",2
+0.0350385423966363,"frozenset({'year=<=2022', 'month=Q3'})",2
+0.0350385423966363,"frozenset({'ransomware=False', 'year=<=2022', 'month=Q3'})",3
+0.03433777154870357,"frozenset({'ransomware=False', 'vendor=Apple', 'year=<=2022'})",3
+0.03433777154870357,"frozenset({'product=Windows', 'vendor=Microsoft', 'year=2024-2025'})",3
+0.03433777154870357,"frozenset({'vendor=Apple', 'year=<=2022'})",2
+0.03433777154870357,"frozenset({'product=Windows', 'year=2024-2025'})",2
+0.03433777154870357,"frozenset({'ransomware=False', 'year=2024-2025', 'product=Windows'})",3
+0.03363700070077085,frozenset({'cwe=CWE-94'}),1
+0.03363700070077085,"frozenset({'ransomware=False', 'cwe=CWE-94'})",2
+0.032936229852838124,"frozenset({'ransomware=False', 'month=Q4', 'year=2023'})",3
+0.032936229852838124,"frozenset({'vendor=Microsoft', 'cwe=Unknown', 'year=<=2022'})",3
+0.032936229852838124,"frozenset({'cwe=CWE-416', 'year=<=2022'})",2
+0.032936229852838124,"frozenset({'month=Q1', 'vendor=Cisco'})",2
+0.032936229852838124,"frozenset({'month=Q1', 'ransomware=False', 'vendor=Cisco'})",3
+0.032936229852838124,"frozenset({'ransomware=False', 'cwe=CWE-416', 'year=<=2022'})",3
+0.032936229852838124,"frozenset({'month=Q4', 'year=2023'})",2
+0.0322354590049054,"frozenset({'product=Windows', 'month=Q4'})",2
+0.0322354590049054,"frozenset({'product=Windows', 'vendor=Microsoft', 'month=Q4'})",3
+0.0322354590049054,"frozenset({'product=Windows', 'ransomware=False', 'month=Q4'})",3
+0.03153468815697267,"frozenset({'cwe=CWE-78', 'year=<=2022'})",2
+0.03153468815697267,"frozenset({'vendor=Apple', 'product=Multiple Products'})",2
+0.03153468815697267,"frozenset({'ransomware=False', 'vendor=Apple', 'product=Multiple Products'})",3
+0.03153468815697267,"frozenset({'cwe=CWE-78', 'ransomware=False', 'year=<=2022'})",3
+0.030833917309039945,"frozenset({'vendor=Google', 'year=<=2022'})",2
+0.030833917309039945,"frozenset({'month=Q1', 'year=<=2022', 'vendor=Cisco'})",3
+0.030833917309039945,"frozenset({'month=Q1', 'cwe=CWE-20'})",2
+0.030833917309039945,"frozenset({'ransomware=False', 'vendor=Google', 'year=<=2022'})",3
+0.030833917309039945,"frozenset({'month=Q1', 'ransomware=False', 'cwe=CWE-20'})",3
+0.030133146461107218,"frozenset({'year=2023', 'month=Q3'})",2
+0.030133146461107218,"frozenset({'ransomware=False', 'year=2023', 'month=Q3'})",3
+0.030133146461107218,"frozenset({'month=Q1', 'ransomware=False', 'cwe=Unknown'})",3
+0.030133146461107218,"frozenset({'month=Q4', 'cwe=Unknown', 'year=<=2022'})",3
+0.030133146461107218,"frozenset({'month=Q1', 'cwe=Unknown'})",2
+0.02943237561317449,"frozenset({'month=Q1', 'ransomware=False', 'cwe=CWE-119'})",3
+0.02943237561317449,"frozenset({'month=Q1', 'cwe=CWE-119'})",2
+0.028731604765241767,"frozenset({'ransomware=False', 'cwe=CWE-22', 'year=<=2022'})",3
+0.028731604765241767,"frozenset({'month=Q4', 'cwe=CWE-787'})",2
+0.028731604765241767,"frozenset({'cwe=CWE-22', 'year=<=2022'})",2
+0.028731604765241767,"frozenset({'ransomware=False', 'month=Q4', 'cwe=CWE-787'})",3
+0.02803083391730904,frozenset({'vendor=Oracle'}),1
+0.02803083391730904,"frozenset({'ransomware=False', 'vendor=Oracle'})",2
+0.02803083391730904,"frozenset({'month=Q1', 'cwe=CWE-119', 'year=<=2022'})",3
+0.026629292221443588,"frozenset({'vendor=Apache', 'ransomware=False'})",2
+0.026629292221443588,frozenset({'vendor=Apache'}),1
+0.026629292221443588,"frozenset({'ransomware=False', 'vendor=Microsoft', 'month=Q3'})",3
+0.026629292221443588,"frozenset({'month=Q1', 'cwe=CWE-20', 'year=<=2022'})",3
+0.026629292221443588,"frozenset({'vendor=Microsoft', 'month=Q3'})",2
+0.02592852137351086,"frozenset({'cwe=CWE-20', 'month=Q4'})",2
+0.02592852137351086,"frozenset({'month=Q1', 'ransomware=False', 'year=2023'})",3
+0.02592852137351086,"frozenset({'month=Q1', 'year=2023'})",2
+0.02592852137351086,"frozenset({'ransomware=False', 'cwe=CWE-20', 'month=Q4'})",3
+0.02592852137351086,"frozenset({'month=Q1', 'cwe=Unknown', 'year=<=2022'})",3
+0.025227750525578137,"frozenset({'product=Chromium V8', 'ransomware=False', 'vendor=Google'})",3
+0.025227750525578137,"frozenset({'product=Chromium V8', 'ransomware=False'})",2
+0.025227750525578137,"frozenset({'product=Chromium V8', 'vendor=Google'})",2
+0.025227750525578137,"frozenset({'month=Q4', 'year=<=2022', 'cwe=CWE-787'})",3
+0.025227750525578137,frozenset({'product=Chromium V8'}),1
+0.02452697967764541,"frozenset({'month=Q2', 'ransomware=False', 'cwe=Unknown'})",3
+0.02452697967764541,"frozenset({'cwe=CWE-20', 'year=<=2022', 'month=Q4'})",3
+0.02452697967764541,"frozenset({'month=Q2', 'cwe=Unknown'})",2
+0.023826208829712685,"frozenset({'product=Internet Explorer', 'ransomware=False', 'vendor=Microsoft'})",3
+0.023826208829712685,"frozenset({'month=Q2', 'product=Windows', 'vendor=Microsoft'})",3
+0.023826208829712685,"frozenset({'month=Q1', 'cwe=CWE-78', 'ransomware=False'})",3
+0.023826208829712685,"frozenset({'month=Q1', 'product=Windows', 'year=<=2022'})",3
+0.023826208829712685,"frozenset({'ransomware=False', 'vendor=Microsoft', 'cwe=CWE-119'})",3
+0.023826208829712685,"frozenset({'cwe=CWE-119', 'vendor=Microsoft', 'year=<=2022'})",3
+0.023826208829712685,"frozenset({'product=Internet Explorer', 'ransomware=False'})",2
+0.023826208829712685,"frozenset({'month=Q1', 'cwe=CWE-78'})",2
+0.023826208829712685,"frozenset({'cwe=CWE-119', 'vendor=Microsoft'})",2
+0.023826208829712685,frozenset({'product=Internet Explorer'}),1
+0.023826208829712685,"frozenset({'month=Q2', 'product=Windows'})",2
+0.023826208829712685,"frozenset({'month=Q2', 'ransomware=False', 'product=Windows'})",3
+0.023826208829712685,"frozenset({'product=Internet Explorer', 'vendor=Microsoft'})",2
+0.023125437981779958,"frozenset({'ransomware=False', 'product=Flash Player'})",2
+0.023125437981779958,frozenset({'product=Flash Player'}),1
+0.023125437981779958,"frozenset({'vendor=Adobe', 'product=Flash Player'})",2
+0.023125437981779958,"frozenset({'ransomware=False', 'vendor=Adobe', 'product=Flash Player'})",3
+0.02242466713384723,"frozenset({'month=Q1', 'vendor=Adobe'})",2
+0.02242466713384723,"frozenset({'month=Q1', 'ransomware=False', 'vendor=Adobe'})",3
+0.021723896285914507,"frozenset({'ransomware=False', 'year=<=2022', 'product=Multiple Products'})",3
+0.021723896285914507,frozenset({'cwe=CWE-264'}),1
+0.021723896285914507,"frozenset({'year=<=2022', 'product=Multiple Products'})",2
+0.021723896285914507,"frozenset({'ransomware=False', 'cwe=CWE-264'})",2
+0.02102312543798178,"frozenset({'ransomware=False', 'vendor=Apple', 'month=Q4'})",3
+0.02102312543798178,"frozenset({'month=Q4', 'cwe=CWE-416'})",2
+0.02102312543798178,"frozenset({'ransomware=False', 'cwe=CWE-843'})",2
+0.02102312543798178,frozenset({'cwe=CWE-843'}),1
+0.02102312543798178,"frozenset({'product=Internet Explorer', 'ransomware=False', 'year=<=2022'})",3
+0.02102312543798178,"frozenset({'product=Internet Explorer', 'vendor=Microsoft', 'year=<=2022'})",3
+0.02102312543798178,"frozenset({'vendor=Apple', 'month=Q4'})",2
+0.02102312543798178,"frozenset({'ransomware=False', 'month=Q4', 'cwe=CWE-416'})",3
+0.02102312543798178,"frozenset({'product=Windows', 'month=Q4', 'year=<=2022'})",3
+0.02102312543798178,"frozenset({'product=Internet Explorer', 'year=<=2022'})",2
+0.020322354590049056,"frozenset({'ransomware=False', 'cwe=CWE-287'})",2
+0.020322354590049056,"frozenset({'cwe=CWE-78', 'year=2024-2025'})",2
+0.020322354590049056,frozenset({'cwe=CWE-287'}),1
+0.020322354590049056,"frozenset({'cwe=CWE-264', 'year=<=2022'})",2
+0.020322354590049056,"frozenset({'ransomware=False', 'cwe=CWE-264', 'year=<=2022'})",3
+0.020322354590049056,"frozenset({'year=<=2022', 'vendor=Oracle'})",2
+0.020322354590049056,"frozenset({'year=<=2022', 'product=Flash Player'})",2
+0.020322354590049056,"frozenset({'cwe=CWE-78', 'ransomware=False', 'year=2024-2025'})",3
+0.020322354590049056,"frozenset({'ransomware=False', 'year=<=2022', 'product=Flash Player'})",3
+0.020322354590049056,"frozenset({'vendor=Adobe', 'year=<=2022', 'product=Flash Player'})",3
+0.020322354590049056,"frozenset({'ransomware=False', 'year=<=2022', 'vendor=Oracle'})",3
