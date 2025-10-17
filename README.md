@@ -50,8 +50,7 @@ to identify vulnerability trends and predict response speed.
 conda env create -f environment.yml
 conda activate cyberdm
 jupyter lab
-
-
+```
 ### 🔎 Key Insights 🔎
 <p>
 <strong>Top Vendors:</strong> Microsoft &gt; Adobe &gt; Apple &gt; Cisco &nbsp;&nbsp; •
@@ -94,4 +93,5 @@ jupyter lab
 <hr>
 
 <p align="center">👩‍💻 <strong>Author:</strong> Raghad A. &nbsp;&nbsp; 🔒 Academic / Educational Use</p>
+
 
