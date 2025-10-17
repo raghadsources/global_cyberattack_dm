@@ -78,10 +78,6 @@ jupyter lab
 <!-- References (centered) -->
 <div align="center">
 
-## 🖼️ Sample Visuals
-![Top Vendors by Vulnerabilities](reports/eda_visuals/vulns_by_vendor.png)
-![K-Means Clusters](reports/unsupervised/kmeans_svd2d.png)
-![Random Forest Confusion Matrix](reports/supervised/rf_confusion.png)
 
 ### 📚 References
 <p style="margin:6px 0;">• CISA Known Exploited Vulnerabilities (KEV)</p>
@@ -93,6 +89,7 @@ jupyter lab
 <hr>
 
 <p align="center">👩‍💻 <strong>Author:</strong> Raghad A. &nbsp;&nbsp; 
+
 
 
 
