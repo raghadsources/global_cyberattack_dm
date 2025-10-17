@@ -2,7 +2,7 @@
 
 This project analyzes global cyberattack patterns using the **CISA Known Exploited Vulnerabilities (KEV)** dataset (2021–2025).  
 It applies **data mining techniques** including **Exploratory Data Analysis (EDA)**, **Clustering (K-Means)**, **Association Rules**, and **Classification (Random Forest, SVM)**  
-to identify vulnerability trends and predict response speed.
+🚀 **Goal:** Detect vulnerability patterns and forecast emerging threats to enhance global cybersecurity awareness.
 
 ---
 
@@ -78,6 +78,11 @@ jupyter lab
 <!-- References (centered) -->
 <div align="center">
 
+## 🖼️ Sample Visuals
+![Top Vendors by Vulnerabilities](reports/eda_visuals/vulns_by_vendor.png)
+![K-Means Clusters](reports/unsupervised/kmeans_svd2d.png)
+![Random Forest Confusion Matrix](reports/supervised/rf_confusion.png)
+
 ### 📚 References
 <p style="margin:6px 0;">• CISA Known Exploited Vulnerabilities (KEV)</p>
 <p style="margin:6px 0;">• CWE™ (Common Weakness Enumeration) — MITRE</p>
@@ -88,6 +93,7 @@ jupyter lab
 <hr>
 
 <p align="center">👩‍💻 <strong>Author:</strong> Raghad A. &nbsp;&nbsp; 
+
 
 
 
